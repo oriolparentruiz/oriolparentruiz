@@ -50,6 +50,7 @@ Interactive tool that downloads hiking GPS segments from OpenStreetMap for a use
 Academic study of a hypothetical AI system managing a public ministry, asking where the line of automation must be drawn. Includes a delegation matrix (what can be automated, assisted or must stay human), a quantified environmental footprint, a blinded survey of 10 dilemmas, case studies and regulatory proposals. Its conclusion is that human-in-the-loop is an engineering requirement. Published as a paper, slides and an interactive web platform.
 `AI ethics` `EU AI Act`
 
+#### ⚡[HPC Benchmarking: Performance, Scalability and Energy Efficiency]([https://github.com/oriolparentruiz/ethical_and_engineering_implications_of_automating_the_ministry_of_territory_and_housing](https://github.com/oriolparentruiz/HPC_Benchmarking_Project))
 ---
 
 ## 🎓 Background
